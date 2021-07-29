@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Oren Zernov
 
 <!--
 **0z3rn0v/0z3rn0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
